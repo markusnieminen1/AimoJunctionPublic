@@ -1,0 +1,8 @@
+# Never commit generated MCP configs, bundled credentials, or secrets
+.mcp.json
+*aimo_credentials.json
+.env
+.env.*
+__pycache__/
+.pytest_cache/
+*.pyc

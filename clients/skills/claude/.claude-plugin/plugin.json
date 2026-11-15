@@ -1,0 +1,6 @@
+{
+  "name": "aimoannos",
+  "version": "0.1.0",
+  "description": "Valio Aimo B2B wholesale purchasing MCP integration and dietary/policy safety skill for AimoAnnos.",
+  "skills": "./"
+}

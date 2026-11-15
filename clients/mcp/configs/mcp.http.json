@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "aimoannos": {
+      "type": "http",
+      "url": "http://127.0.0.1:8001/api/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_60_MIN_AGENT_JWT",
+        "MCP-Protocol-Version": "2025-03-26"
+      }
+    }
+  }
+}

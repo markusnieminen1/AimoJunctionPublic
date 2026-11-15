@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "aimoannos": {
+      "command": "python3",
+      "args": [
+        "${CLAUDE_PLUGIN_ROOT}/mcp/aimo_mcp_bridge.py"
+      ],
+      "env": {
+        "AIMO_BASE_URL": "${AIMO_BASE_URL}",
+        "AIMO_AGENT_ID": "${AIMO_AGENT_ID}",
+        "AIMO_AGENT_SECRET": "${AIMO_AGENT_SECRET}"
+      }
+    }
+  }
+}

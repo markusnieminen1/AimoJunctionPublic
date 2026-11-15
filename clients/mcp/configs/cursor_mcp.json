@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "aimoannos-stdio": {
+      "command": "python3",
+      "args": [
+        "/ABSOLUTE/PATH/TO/aimoannos/clients/mcp/aimo_mcp_bridge.py"
+      ],
+      "env": {
+        "AIMO_BASE_URL": "http://127.0.0.1:8001",
+        "AIMO_AGENT_ID": "agt_YOUR_AGENT_ID",
+        "AIMO_AGENT_SECRET": "aks_YOUR_AGENT_SECRET"
+      }
+    },
+    "aimoannos-http": {
+      "url": "http://127.0.0.1:8001/api/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_60_MIN_AGENT_JWT",
+        "MCP-Protocol-Version": "2025-03-26"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+[project]
+name = "aimoannos-mcp-bridge"
+version = "0.1.0"
+description = "Zero-dependency Python stdio-to-Streamable-HTTP MCP bridge for AimoAnnos (/api/mcp)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+aimo-mcp-bridge = "aimo_mcp_bridge:main"
+
+[tool.pytest.ini_options]
+testpaths = ["."]

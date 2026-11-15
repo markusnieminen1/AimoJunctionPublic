@@ -1,0 +1,128 @@
+@import "./tokens.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-sm;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-link);
+    outline-offset: 2px;
+  }
+  a {
+    color: inherit;
+  }
+}
+
+@layer components {
+  /* Display headings (National 700, petrol). DESIGN_VALIO §2.3 */
+  .h-page {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 44px;
+    letter-spacing: 0.01em;
+    color: var(--color-navy);
+  }
+  @media (min-width: 768px) {
+    .h-page {
+      font-size: 56px;
+      line-height: 62px;
+    }
+  }
+  .h-section {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 35px;
+    letter-spacing: 0.01em;
+    color: var(--color-navy);
+  }
+  @media (min-width: 768px) {
+    .h-section {
+      font-size: 40px;
+      line-height: 44px;
+    }
+  }
+  .h-card {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    color: var(--color-navy);
+  }
+  /* Uppercase display label: nav items, CTA labels, tags. */
+  .label-display {
+    font-family: var(--font-display);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  /* Inline text link (petrol-blue, underline on hover). */
+  .link {
+    color: var(--color-link);
+    font-weight: 700;
+  }
+  .link:hover {
+    text-decoration: underline;
+  }
+  /* Page container: 1440 max, 48 px gutters ≥ 992, 32 px 768–991, 16 px below. */
+  .container-portal {
+    width: 100%;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  @media (min-width: 768px) {
+    .container-portal {
+      padding-left: 32px;
+      padding-right: 32px;
+    }
+  }
+  @media (min-width: 992px) {
+    .container-portal {
+      padding-left: 48px;
+      padding-right: 48px;
+    }
+  }
+  /* Login hero band: petrol with a subtle diagonal pattern (no photos). */
+  .band-petrol-pattern {
+    background-color: var(--color-navy);
+    background-image: repeating-linear-gradient(135deg, rgba(0, 55, 71, 0.55) 0 2px, transparent 2px 22px);
+  }
+  /* Hide horizontal scrollbars on chip/tab strips. */
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Unknown allergen bucket: dashed amber on cream (DESIGN.md §6C, DESIGN_VALIO §6 /products). Never "safe". */
+.hatch-warning {
+  background-color: var(--color-unknown-allergen-bg);
+}
+
+@media print {
+  header,
+  footer,
+  [data-testid="topbar"],
+  [data-testid="account-tabs"],
+  nav[aria-label="Orders"],
+  nav[aria-label="Settings"],
+  nav[aria-label="Pagination"],
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+}

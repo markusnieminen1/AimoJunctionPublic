@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "aimoannos": {
+      "command": "python3",
+      "args": [
+        "/ABSOLUTE/PATH/TO/aimoannos/clients/mcp/aimo_mcp_bridge.py"
+      ],
+      "env": {
+        "AIMO_BASE_URL": "http://127.0.0.1:8001",
+        "AIMO_AGENT_ID": "agt_YOUR_AGENT_ID",
+        "AIMO_AGENT_SECRET": "aks_YOUR_AGENT_SECRET"
+      }
+    }
+  }
+}

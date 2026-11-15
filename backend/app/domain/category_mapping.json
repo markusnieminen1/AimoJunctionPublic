@@ -1,0 +1,2445 @@
+{
+ "10400": {
+  "name_en": "Milk (drinking milk, incl. lactose-free & milk drinks)",
+  "name_fi": "Maidot ja maitojuomat",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10401": {
+  "name_en": "Cream (whipping, cooking, coffee cream)",
+  "name_fi": "Kermat",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10402": {
+  "name_en": "Plant-based drinks & coconut milk (ambient)",
+  "name_fi": "Kasvijuomat ja kookosmaito",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10404": {
+  "name_en": "Condensed & evaporated milk",
+  "name_fi": "Kondensoitu maito",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10405": {
+  "name_en": "Milk & cream powders",
+  "name_fi": "Maito- ja kermajauheet",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10406": {
+  "name_en": "Plant-based cream & cooking bases, whipping toppings",
+  "name_fi": "Kasvipohjaiset kermat ja ruoanvalmistusvalmisteet",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10411": {
+  "name_en": "Viili & cultured milk set products",
+  "name_fi": "Viilit",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10412": {
+  "name_en": "Yoghurt",
+  "name_fi": "Jogurtit",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10413": {
+  "name_en": "Plant-based yoghurt alternatives & oat snacks",
+  "name_fi": "Kasvipohjaiset jogurttivalmisteet (kaura, soija)",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10418": {
+  "name_en": "Plant-based crème fraîche / sour-cream alternatives",
+  "name_fi": "Kasvipohjaiset fraiche-valmisteet",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10419": {
+  "name_en": "Sour cream, crème fraîche, smetana & kefir",
+  "name_fi": "Kermaviilit, ranskankermat, smetanat ja kefirit",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10430": {
+  "name_en": "Quark (rahka)",
+  "name_fi": "Rahkat",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "high"
+ },
+ "10431": {
+  "name_en": "Snack puddings, rice/semolina snacks & protein drinks",
+  "name_fi": "Välipalavanukkaat ja -juomat",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10432": {
+  "name_en": "Desserts, custards & soft-serve mixes (chilled)",
+  "name_fi": "Jälkiruoat, kreemit ja pehmisseokset",
+  "parent_group": "Dairy & dairy alternatives",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10500": {
+  "name_en": "Butter",
+  "name_fi": "Voit",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10501": {
+  "name_en": "Portion butter",
+  "name_fi": "Annosvoit",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10502": {
+  "name_en": "Flavoured butter",
+  "name_fi": "Maustevoit",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10515": {
+  "name_en": "Margarine & vegetable-fat spreads",
+  "name_fi": "Margariinit ja levitteet",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10516": {
+  "name_en": "Portion margarine",
+  "name_fi": "Annosmargariinit",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10517": {
+  "name_en": "Liquid cooking fats",
+  "name_fi": "Juoksevat rasvat",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10518": {
+  "name_en": "Baking margarines & fats",
+  "name_fi": "Leivontarasvat",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10530": {
+  "name_en": "Cooking oils (rapeseed, frying) & sprays",
+  "name_fi": "Ruokaöljyt ja paistorasvat",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10531": {
+  "name_en": "Olive oil",
+  "name_fi": "Oliiviöljyt",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10532": {
+  "name_en": "Speciality oils (sesame, coconut, nut, seed)",
+  "name_fi": "Erikoisöljyt",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10590": {
+  "name_en": "Eggs (shell eggs)",
+  "name_fi": "Kananmunat",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10592": {
+  "name_en": "Egg products (liquid egg, boiled egg, egg powders)",
+  "name_fi": "Munavalmisteet",
+  "parent_group": "Edible fats, oils & eggs",
+  "food": true,
+  "confidence": "high"
+ },
+ "10600": {
+  "name_en": "Cheese blocks & wheels (hard/semi-hard)",
+  "name_fi": "Juustot, kokonaiset ja palat",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10602": {
+  "name_en": "Sliced cheese",
+  "name_fi": "Viipalejuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10603": {
+  "name_en": "Grated / shredded & pizza cheese",
+  "name_fi": "Raastejuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10630": {
+  "name_en": "Goat & sheep cheese",
+  "name_fi": "Vuohen- ja lampaanjuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10631": {
+  "name_en": "Soft white-mould & speciality cheese",
+  "name_fi": "Valkohomejuustot ja herkkujuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10632": {
+  "name_en": "Blue & red-mould cheese",
+  "name_fi": "Sini- ja punahomejuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10633": {
+  "name_en": "Processed cheese",
+  "name_fi": "Sulatejuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10635": {
+  "name_en": "Cream cheese & spreadable cheese",
+  "name_fi": "Tuorejuustot ja levitettävät juustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10636": {
+  "name_en": "Feta & salad cheese",
+  "name_fi": "Feta- ja salaattijuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10637": {
+  "name_en": "Fresh mozzarella & burrata",
+  "name_fi": "Mozzarellat ja burratat",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10639": {
+  "name_en": "Halloumi & grilling cheese",
+  "name_fi": "Halloumi- ja grillijuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10640": {
+  "name_en": "Bread cheese, paneer & other cooking cheese",
+  "name_fi": "Leipäjuustot, paneer ja ruoanlaittojuustot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10641": {
+  "name_en": "Plant-based cheese alternatives",
+  "name_fi": "Kasvipohjaiset juustovaihtoehdot",
+  "parent_group": "Cheese",
+  "food": true,
+  "confidence": "high"
+ },
+ "10900": {
+  "name_en": "Rye & dark bread (limppu)",
+  "name_fi": "Ruis- ja tummat leivät",
+  "parent_group": "Fresh bakery",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10901": {
+  "name_en": "Wheat, mixed-grain & toast loaves",
+  "name_fi": "Vehnä- ja sekaleivät, paahtoleivät",
+  "parent_group": "Fresh bakery",
+  "food": true,
+  "confidence": "medium"
+ },
+ "10902": {
+  "name_en": "Rolls, buns & burger buns",
+  "name_fi": "Sämpylät ja hampurilaissämpylät",
+  "parent_group": "Fresh bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "10903": {
+  "name_en": "Karelian pies & savoury bakes",
+  "name_fi": "Piirakat ja suolaiset leivonnaiset",
+  "parent_group": "Fresh bakery",
+  "food": true,
+  "confidence": "medium"
+ },
+ "11030": {
+  "name_en": "Sweet bakery: pulla, cakes, pastries",
+  "name_fi": "Kahvileivät, pullat ja kakut",
+  "parent_group": "Fresh bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "17200": {
+  "name_en": "Sausages (cooking & grill)",
+  "name_fi": "Makkarat",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17201": {
+  "name_en": "Frankfurters (nakit)",
+  "name_fi": "Nakit",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17202": {
+  "name_en": "Bacon",
+  "name_fi": "Pekonit",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17203": {
+  "name_en": "Ham & cured ham",
+  "name_fi": "Kinkut",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17204": {
+  "name_en": "Poultry cold cuts",
+  "name_fi": "Siipikarjaleikkeleet",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17205": {
+  "name_en": "Sliced cold cuts & luncheon sausage",
+  "name_fi": "Leikkeleet ja leikkelemakkarat",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17206": {
+  "name_en": "Salami & dry-cured sausage",
+  "name_fi": "Salamit ja meetvurstit",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17207": {
+  "name_en": "Pâté & liver sausage",
+  "name_fi": "Pasteijat ja maksamakkarat",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17208": {
+  "name_en": "Meat jelly (aspic)",
+  "name_fi": "Lihahyytelöt",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17209": {
+  "name_en": "Cooked meat strips & cubes (ingredients)",
+  "name_fi": "Kypsät liha-suikaleet ja -kuutiot",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "high"
+ },
+ "17210": {
+  "name_en": "Cooked / smoked roasts, mince & speciality meats",
+  "name_fi": "Kypsät paistit ja erikoislihavalmisteet",
+  "parent_group": "Cold cuts & sausages",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17300": {
+  "name_en": "Chilled ready meals, casseroles, soups, pizzas & porridges",
+  "name_fi": "Valmisruoat",
+  "parent_group": "Chilled ready meals & deli",
+  "food": true,
+  "confidence": "high"
+ },
+ "17301": {
+  "name_en": "Chilled salads (potato, rosolli etc.)",
+  "name_fi": "Salaatit (valmissalaatit)",
+  "parent_group": "Chilled ready meals & deli",
+  "food": true,
+  "confidence": "high"
+ },
+ "17302": {
+  "name_en": "Deli: terrines, pâtés, fish/meat specialities & prepared veg",
+  "name_fi": "Herkut ja terriinit, valmiit kasvislisukkeet",
+  "parent_group": "Chilled ready meals & deli",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17303": {
+  "name_en": "Sandwiches, paninis & snack breads",
+  "name_fi": "Voileivät ja täytetyt leivät",
+  "parent_group": "Chilled ready meals & deli",
+  "food": true,
+  "confidence": "high"
+ },
+ "17304": {
+  "name_en": "Fresh pasta & gnocchi",
+  "name_fi": "Tuorepastat",
+  "parent_group": "Chilled ready meals & deli",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17305": {
+  "name_en": "Hummus, dips, tahini & vegetable spreads",
+  "name_fi": "Hummukset, dipit ja tahnat",
+  "parent_group": "Chilled ready meals & deli",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17306": {
+  "name_en": "Tofu, plant proteins & kebab meat (chilled)",
+  "name_fi": "Tofut, kasviproteiinit ja kebabliha",
+  "parent_group": "Chilled ready meals & deli",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17401": {
+  "name_en": "Tomatoes",
+  "name_fi": "Tomaatit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17402": {
+  "name_en": "Cucumbers, squash & pumpkins",
+  "name_fi": "Kurkut ja kurpitsat",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17403": {
+  "name_en": "Lettuce & salad leaves",
+  "name_fi": "Salaatit (lehtisalaatit)",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17404": {
+  "name_en": "Cabbages & cauliflower",
+  "name_fi": "Kaalit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17405": {
+  "name_en": "Onions",
+  "name_fi": "Sipulit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17406": {
+  "name_en": "Peppers & chillies",
+  "name_fi": "Paprikat ja chilit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17407": {
+  "name_en": "Other vegetables (aubergine, asparagus, fennel, spinach)",
+  "name_fi": "Muut vihannekset",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17408": {
+  "name_en": "Peas & beans (fresh)",
+  "name_fi": "Herneet ja pavut",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17411": {
+  "name_en": "Citrus fruit",
+  "name_fi": "Sitrushedelmät",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17412": {
+  "name_en": "Apples & pears",
+  "name_fi": "Omenat ja päärynät",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17413": {
+  "name_en": "Bananas",
+  "name_fi": "Banaanit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17414": {
+  "name_en": "Stone fruit, grapes & avocados",
+  "name_fi": "Kivihedelmät, viinirypäleet ja avokadot",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17415": {
+  "name_en": "Exotic fruit & melons",
+  "name_fi": "Eksoottiset hedelmät",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17421": {
+  "name_en": "Potatoes (fresh, washed)",
+  "name_fi": "Perunat",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17422": {
+  "name_en": "Peeled raw potatoes",
+  "name_fi": "Kuoritut perunat",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17423": {
+  "name_en": "Cooked potato products (chilled)",
+  "name_fi": "Kypsät perunat",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17424": {
+  "name_en": "Processed raw potato (cut, vacuum)",
+  "name_fi": "Perunajalosteet",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17431": {
+  "name_en": "Root vegetables",
+  "name_fi": "Juurekset",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17432": {
+  "name_en": "Peeled root vegetables",
+  "name_fi": "Kuoritut juurekset",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17433": {
+  "name_en": "Root vegetable purées",
+  "name_fi": "Juuressoseet",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17441": {
+  "name_en": "Pre-cut salads",
+  "name_fi": "Valmiiksi leikatut salaatit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17442": {
+  "name_en": "Pre-cut root vegetables",
+  "name_fi": "Leikatut juurekset",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17443": {
+  "name_en": "Pre-cut vegetables & veg mixes",
+  "name_fi": "Leikatut vihannekset ja sekoitukset",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17444": {
+  "name_en": "Pre-cut onions",
+  "name_fi": "Leikatut sipulit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17445": {
+  "name_en": "Pre-cut fruit",
+  "name_fi": "Leikatut hedelmät",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17451": {
+  "name_en": "Fresh herbs (bunches)",
+  "name_fi": "Tuoreet yrtit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17452": {
+  "name_en": "Potted herbs",
+  "name_fi": "Ruukkuyrtit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17453": {
+  "name_en": "Cress & micro-herbs (boxes)",
+  "name_fi": "Krassit ja mikroyrtit",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17454": {
+  "name_en": "Sprouts & shoots",
+  "name_fi": "Versot",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17455": {
+  "name_en": "Edible flowers",
+  "name_fi": "Syötävät kukat",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17456": {
+  "name_en": "Bean sprouts",
+  "name_fi": "Idut",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17457": {
+  "name_en": "Banana leaves",
+  "name_fi": "Banaaninlehdet",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17471": {
+  "name_en": "Cultivated mushrooms",
+  "name_fi": "Viljellyt sienet",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17472": {
+  "name_en": "Wild mushrooms (fresh)",
+  "name_fi": "Metsäsienet",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "17473": {
+  "name_en": "Salted mushrooms",
+  "name_fi": "Suolasienet",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "medium"
+ },
+ "17481": {
+  "name_en": "Fresh berries",
+  "name_fi": "Tuoreet marjat",
+  "parent_group": "Fruit, vegetables & potatoes",
+  "food": true,
+  "confidence": "high"
+ },
+ "18701": {
+  "name_en": "Fresh fish",
+  "name_fi": "Tuore kala",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "18702": {
+  "name_en": "Hot-smoked fish",
+  "name_fi": "Lämminsavukala",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "18703": {
+  "name_en": "Shellfish & molluscs (fresh/chilled)",
+  "name_fi": "Äyriäiset ja simpukat",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "18704": {
+  "name_en": "Roe, caviar & roe substitutes",
+  "name_fi": "Mäti ja kaviaari",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "medium"
+ },
+ "18705": {
+  "name_en": "Marinated & pickled fish (herring, anchovy)",
+  "name_fi": "Marinoidut kalat ja sillit",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "18706": {
+  "name_en": "Bulk fish fillets (salmon/trout, chilled)",
+  "name_fi": "Kalafileet (suurpakkaus)",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "medium"
+ },
+ "18707": {
+  "name_en": "Flame-grilled fish (loimulohi)",
+  "name_fi": "Loimukala",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "medium"
+ },
+ "18708": {
+  "name_en": "Cold-smoked & gravad fish",
+  "name_fi": "Kylmäsavu- ja graavikala",
+  "parent_group": "Fresh fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "18710": {
+  "name_en": "Fresh pork",
+  "name_fi": "Sianliha",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "high"
+ },
+ "18720": {
+  "name_en": "Fresh beef",
+  "name_fi": "Naudanliha",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "high"
+ },
+ "18730": {
+  "name_en": "Fresh reindeer",
+  "name_fi": "Poronliha",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "medium"
+ },
+ "18740": {
+  "name_en": "Fresh lamb",
+  "name_fi": "Lampaanliha",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "medium"
+ },
+ "18750": {
+  "name_en": "Fresh chicken & turkey",
+  "name_fi": "Broileri ja kalkkuna",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "high"
+ },
+ "18751": {
+  "name_en": "Fresh duck",
+  "name_fi": "Ankka",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "medium"
+ },
+ "18760": {
+  "name_en": "Minced meat",
+  "name_fi": "Jauhelihat",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "high"
+ },
+ "18761": {
+  "name_en": "Marinated & prepared raw meat",
+  "name_fi": "Maustetut ja jalostetut raakalihat",
+  "parent_group": "Fresh meat & poultry",
+  "food": true,
+  "confidence": "medium"
+ },
+ "20000": {
+  "name_en": "Pet treats",
+  "name_fi": "Lemmikkien herkut",
+  "parent_group": "Pet supplies (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "20011": {
+  "name_en": "Pots, pans & kettles",
+  "name_fi": "Kattilat ja pannut",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20012": {
+  "name_en": "Gastronorm containers & lids",
+  "name_fi": "GN-astiat ja kannet",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20013": {
+  "name_en": "Baking tins & oven dishes",
+  "name_fi": "Leivontavuoat",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20014": {
+  "name_en": "Storage jars & containers",
+  "name_fi": "Säilytysastiat",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20021": {
+  "name_en": "Knives & cutting boards",
+  "name_fi": "Veitset ja leikkuulaudat",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20022": {
+  "name_en": "Kitchen utensils",
+  "name_fi": "Keittiövälineet",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20023": {
+  "name_en": "Kitchen accessories & spare parts",
+  "name_fi": "Keittiötarvikkeet ja varaosat",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "20024": {
+  "name_en": "Thermometers & timers",
+  "name_fi": "Lämpömittarit ja ajastimet",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20031": {
+  "name_en": "Crockery & bowls",
+  "name_fi": "Astiat ja kulhot",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20032": {
+  "name_en": "Glassware",
+  "name_fi": "Lasit",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20033": {
+  "name_en": "Jugs, pitchers & serving equipment",
+  "name_fi": "Kannut ja tarjoiluvälineet",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "20034": {
+  "name_en": "Serving tongs & utensils",
+  "name_fi": "Tarjoiluvälineet, pihdit",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "20035": {
+  "name_en": "Cutlery",
+  "name_fi": "Aterimet",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "20036": {
+  "name_en": "Bar equipment",
+  "name_fi": "Baarivälineet",
+  "parent_group": "Kitchen equipment & tableware (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "21100": {
+  "name_en": "Rusks",
+  "name_fi": "Korput",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "high"
+ },
+ "21120": {
+  "name_en": "Crackers & salty biscuits",
+  "name_fi": "Suolakeksit",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "high"
+ },
+ "21121": {
+  "name_en": "Croutons",
+  "name_fi": "Krutongit",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "high"
+ },
+ "21130": {
+  "name_en": "Wafers & ice-cream cones",
+  "name_fi": "Vohvelit ja jäätelötötteröt",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "high"
+ },
+ "21140": {
+  "name_en": "Sweet biscuits & cookies",
+  "name_fi": "Makeat keksit",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "high"
+ },
+ "21150": {
+  "name_en": "Cereal, fruit & nut bars",
+  "name_fi": "Välipalapatukat",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "high"
+ },
+ "21200": {
+  "name_en": "Sour rye crisps & rye snacks (hapankorppu)",
+  "name_fi": "Hapankorput",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "medium"
+ },
+ "21211": {
+  "name_en": "Crispbread (näkkileipä)",
+  "name_fi": "Näkkileivät",
+  "parent_group": "Biscuits, crackers & crispbread",
+  "food": true,
+  "confidence": "high"
+ },
+ "21300": {
+  "name_en": "Wheat flour",
+  "name_fi": "Vehnäjauhot",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21310": {
+  "name_en": "Other flours & breadcrumbs",
+  "name_fi": "Muut jauhot ja korppujauhot",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21320": {
+  "name_en": "Baking & bread mixes",
+  "name_fi": "Leivonta- ja leipäseokset",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21340": {
+  "name_en": "Rice",
+  "name_fi": "Riisit",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21360": {
+  "name_en": "Starches & thickeners",
+  "name_fi": "Tärkkelykset ja suurusteet",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21370": {
+  "name_en": "Flakes & porridge oats",
+  "name_fi": "Hiutaleet ja puurot",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21371": {
+  "name_en": "Groats & grits",
+  "name_fi": "Suurimot",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21372": {
+  "name_en": "Breakfast cereals",
+  "name_fi": "Murot",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21373": {
+  "name_en": "Muesli & granola",
+  "name_fi": "Myslit",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21380": {
+  "name_en": "Pasta (dry)",
+  "name_fi": "Pastat",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21381": {
+  "name_en": "Noodles",
+  "name_fi": "Nuudelit",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21382": {
+  "name_en": "Quinoa, couscous & bulgur",
+  "name_fi": "Kvinoa, couscous ja bulgur",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21390": {
+  "name_en": "Dried pulses",
+  "name_fi": "Kuivatut palkokasvit",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21391": {
+  "name_en": "Malt & kalja extracts",
+  "name_fi": "Mallasuutteet",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "medium"
+ },
+ "21393": {
+  "name_en": "Dry plant proteins (soy/pea mince)",
+  "name_fi": "Kuivat kasviproteiinit",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21394": {
+  "name_en": "Potato flakes & mash powder",
+  "name_fi": "Perunahiutaleet",
+  "parent_group": "Flour, grains, pasta & pulses",
+  "food": true,
+  "confidence": "high"
+ },
+ "21400": {
+  "name_en": "Juice drinks, nectars & glögi",
+  "name_fi": "Mehujuomat",
+  "parent_group": "Juices & fruit drinks",
+  "food": true,
+  "confidence": "high"
+ },
+ "21401": {
+  "name_en": "Juice concentrates & drink powders",
+  "name_fi": "Mehutiivisteet",
+  "parent_group": "Juices & fruit drinks",
+  "food": true,
+  "confidence": "high"
+ },
+ "21402": {
+  "name_en": "Fruit soups & kissels (chilled)",
+  "name_fi": "Marja- ja hedelmäkeitot",
+  "parent_group": "Juices & fruit drinks",
+  "food": true,
+  "confidence": "high"
+ },
+ "21403": {
+  "name_en": "100% juices",
+  "name_fi": "Täysmehut",
+  "parent_group": "Juices & fruit drinks",
+  "food": true,
+  "confidence": "high"
+ },
+ "21404": {
+  "name_en": "Smoothies & fruit pouches",
+  "name_fi": "Smoothiet",
+  "parent_group": "Juices & fruit drinks",
+  "food": true,
+  "confidence": "high"
+ },
+ "21405": {
+  "name_en": "Misc drinks (mixed: beer, kalja, alcohol-free)",
+  "name_fi": "Sekalaiset juomat",
+  "parent_group": "Juices & fruit drinks",
+  "food": true,
+  "confidence": "low"
+ },
+ "21450": {
+  "name_en": "Jams",
+  "name_fi": "Hillot",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "high"
+ },
+ "21451": {
+  "name_en": "Fruit & berry purées",
+  "name_fi": "Hedelmä- ja marjasoseet",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "high"
+ },
+ "21452": {
+  "name_en": "Bakery fillings, jellies & marmalades",
+  "name_fi": "Täytteet ja marmeladit",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "high"
+ },
+ "21453": {
+  "name_en": "Nut butters & sweet spreads",
+  "name_fi": "Pähkinälevitteet",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "high"
+ },
+ "21460": {
+  "name_en": "Nuts (unsalted)",
+  "name_fi": "Pähkinät",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "high"
+ },
+ "21461": {
+  "name_en": "Dried fruit",
+  "name_fi": "Kuivatut hedelmät",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "high"
+ },
+ "21462": {
+  "name_en": "Seeds",
+  "name_fi": "Siemenet",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "high"
+ },
+ "21463": {
+  "name_en": "Dried seaweed & dried vegetables",
+  "name_fi": "Kuivatut merilevät ja kasvikset",
+  "parent_group": "Jams, spreads, nuts & dried fruit",
+  "food": true,
+  "confidence": "medium"
+ },
+ "21510": {
+  "name_en": "Canned meat & ready meals",
+  "name_fi": "Liha- ja valmisruokasäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21530": {
+  "name_en": "Canned fish",
+  "name_fi": "Kalasäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21540": {
+  "name_en": "Snails",
+  "name_fi": "Etanat",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21550": {
+  "name_en": "Canned mushrooms & truffles",
+  "name_fi": "Sienisäilykkeet ja tryffelit",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21580": {
+  "name_en": "Canned fruit",
+  "name_fi": "Hedelmäsäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21590": {
+  "name_en": "Tomato products & preserved tomatoes",
+  "name_fi": "Tomaattisäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21591": {
+  "name_en": "Pickled cucumbers",
+  "name_fi": "Kurkkusäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21592": {
+  "name_en": "Sauerkraut",
+  "name_fi": "Hapankaali",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21593": {
+  "name_en": "Pickled beetroot",
+  "name_fi": "Punajuurisäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21594": {
+  "name_en": "Canned beans & pulses",
+  "name_fi": "Papu- ja linssisäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21595": {
+  "name_en": "Olives",
+  "name_fi": "Oliivit",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "high"
+ },
+ "21596": {
+  "name_en": "Other preserved vegetables, peppers & relishes",
+  "name_fi": "Muut kasvissäilykkeet",
+  "parent_group": "Canned & preserved foods",
+  "food": true,
+  "confidence": "medium"
+ },
+ "21600": {
+  "name_en": "Baby food",
+  "name_fi": "Lastenruoat",
+  "parent_group": "Baby food",
+  "food": true,
+  "confidence": "high"
+ },
+ "21900": {
+  "name_en": "Soups (ready, ambient)",
+  "name_fi": "Keitot",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21901": {
+  "name_en": "Dry soup mixes & soup bases",
+  "name_fi": "Keittoaineet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21902": {
+  "name_en": "Stocks, bouillon & fonds",
+  "name_fi": "Liemet ja fondit",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21903": {
+  "name_en": "Liquid stocks",
+  "name_fi": "Nestemäiset liemet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21904": {
+  "name_en": "Ready sauces (hollandaise, béarnaise etc.)",
+  "name_fi": "Valmiit kastikkeet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21905": {
+  "name_en": "Sauce bases & dry sauce mixes",
+  "name_fi": "Kastikepohjat ja -aineet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21910": {
+  "name_en": "Mayonnaise",
+  "name_fi": "Majoneesit",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21912": {
+  "name_en": "Ketchup",
+  "name_fi": "Ketsupit",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21917": {
+  "name_en": "Condiment, BBQ & hot sauces",
+  "name_fi": "Maustekastikkeet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21918": {
+  "name_en": "Salad dressings & vinaigrettes",
+  "name_fi": "Salaatinkastikkeet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21919": {
+  "name_en": "Fish sauce & balsamic reductions",
+  "name_fi": "Kalakastikkeet ja balsamicot",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "medium"
+ },
+ "21920": {
+  "name_en": "Cooking sauces (pasta, wok, curry)",
+  "name_fi": "Ruoanvalmistuskastikkeet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21921": {
+  "name_en": "Soy sauce",
+  "name_fi": "Soijakastikkeet",
+  "parent_group": "Soups, stocks, sauces & condiments",
+  "food": true,
+  "confidence": "high"
+ },
+ "21950": {
+  "name_en": "Supplements & health foods",
+  "name_fi": "Ravintolisät ja terveystuotteet",
+  "parent_group": "Supplements & special nutrition",
+  "food": true,
+  "confidence": "medium"
+ },
+ "21952": {
+  "name_en": "Special nutrition / fibre products",
+  "name_fi": "Erityisravinto",
+  "parent_group": "Supplements & special nutrition",
+  "food": true,
+  "confidence": "low"
+ },
+ "21980": {
+  "name_en": "Dessert powders, kissel & mousse bases",
+  "name_fi": "Jälkiruokajauheet",
+  "parent_group": "Dessert ingredients & sauces",
+  "food": true,
+  "confidence": "high"
+ },
+ "21981": {
+  "name_en": "Dessert sauces (vanilla, caramel, chocolate)",
+  "name_fi": "Jälkiruokakastikkeet",
+  "parent_group": "Dessert ingredients & sauces",
+  "food": true,
+  "confidence": "high"
+ },
+ "21982": {
+  "name_en": "Misc dessert/baking items",
+  "name_fi": "Sekalaiset leivontatuotteet",
+  "parent_group": "Dessert ingredients & sauces",
+  "food": true,
+  "confidence": "low"
+ },
+ "21990": {
+  "name_en": "Crisps (potato chips)",
+  "name_fi": "Perunalastut",
+  "parent_group": "Savoury snacks & Tex-Mex",
+  "food": true,
+  "confidence": "high"
+ },
+ "21991": {
+  "name_en": "Tortillas & taco shells",
+  "name_fi": "Tortillat ja tacokuoret",
+  "parent_group": "Savoury snacks & Tex-Mex",
+  "food": true,
+  "confidence": "high"
+ },
+ "21992": {
+  "name_en": "Salted nuts & snack nuts",
+  "name_fi": "Suolapähkinät",
+  "parent_group": "Savoury snacks & Tex-Mex",
+  "food": true,
+  "confidence": "high"
+ },
+ "21993": {
+  "name_en": "Other savoury snacks (rye chips, popcorn, jerky)",
+  "name_fi": "Muut naposteltavat",
+  "parent_group": "Savoury snacks & Tex-Mex",
+  "food": true,
+  "confidence": "medium"
+ },
+ "21994": {
+  "name_en": "Salsas, dips & Tex-Mex seasonings",
+  "name_fi": "Salsat ja dipit",
+  "parent_group": "Savoury snacks & Tex-Mex",
+  "food": true,
+  "confidence": "high"
+ },
+ "22100": {
+  "name_en": "Sugar",
+  "name_fi": "Sokerit",
+  "parent_group": "Sugar, syrups & sweeteners",
+  "food": true,
+  "confidence": "high"
+ },
+ "22140": {
+  "name_en": "Syrups & flavour syrups",
+  "name_fi": "Siirapit ja makusiirapit",
+  "parent_group": "Sugar, syrups & sweeteners",
+  "food": true,
+  "confidence": "high"
+ },
+ "22150": {
+  "name_en": "Honey",
+  "name_fi": "Hunajat",
+  "parent_group": "Sugar, syrups & sweeteners",
+  "food": true,
+  "confidence": "high"
+ },
+ "22190": {
+  "name_en": "Sweeteners",
+  "name_fi": "Makeutusaineet",
+  "parent_group": "Sugar, syrups & sweeteners",
+  "food": true,
+  "confidence": "high"
+ },
+ "22300": {
+  "name_en": "Ground filter coffee",
+  "name_fi": "Suodatinkahvit",
+  "parent_group": "Coffee",
+  "food": true,
+  "confidence": "high"
+ },
+ "22410": {
+  "name_en": "Coffee beans",
+  "name_fi": "Papukahvit",
+  "parent_group": "Coffee",
+  "food": true,
+  "confidence": "high"
+ },
+ "22411": {
+  "name_en": "Ground espresso / speciality coffee",
+  "name_fi": "Espressokahvit, jauhettu",
+  "parent_group": "Coffee",
+  "food": true,
+  "confidence": "medium"
+ },
+ "22412": {
+  "name_en": "Instant coffee, pods & capsules",
+  "name_fi": "Pikakahvit ja kapselit",
+  "parent_group": "Coffee",
+  "food": true,
+  "confidence": "high"
+ },
+ "22413": {
+  "name_en": "Ready-to-drink coffee",
+  "name_fi": "Kahvijuomat",
+  "parent_group": "Coffee",
+  "food": true,
+  "confidence": "high"
+ },
+ "22530": {
+  "name_en": "Tea bags",
+  "name_fi": "Pussiteet",
+  "parent_group": "Tea & cocoa",
+  "food": true,
+  "confidence": "high"
+ },
+ "22531": {
+  "name_en": "Loose-leaf tea",
+  "name_fi": "Irtoteet",
+  "parent_group": "Tea & cocoa",
+  "food": true,
+  "confidence": "high"
+ },
+ "22532": {
+  "name_en": "Iced tea & RTD tea",
+  "name_fi": "Jääteet",
+  "parent_group": "Tea & cocoa",
+  "food": true,
+  "confidence": "high"
+ },
+ "22540": {
+  "name_en": "Cocoa & chocolate drinks",
+  "name_fi": "Kaakaot",
+  "parent_group": "Tea & cocoa",
+  "food": true,
+  "confidence": "high"
+ },
+ "22600": {
+  "name_en": "Salt",
+  "name_fi": "Suolat",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22601": {
+  "name_en": "Baking ingredients, chocolate & decorations",
+  "name_fi": "Leivontatarvikkeet ja koristeet",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22610": {
+  "name_en": "Mustard",
+  "name_fi": "Sinapit",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22620": {
+  "name_en": "Vinegars & Asian seasonings (mirin)",
+  "name_fi": "Etikat",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22630": {
+  "name_en": "Spices & seasoning mixes",
+  "name_fi": "Mausteet",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22640": {
+  "name_en": "BBQ rubs & liquid flavourings",
+  "name_fi": "Grillimausteet ja aromit",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "medium"
+ },
+ "22641": {
+  "name_en": "Spice pastes (chili, ginger, curry)",
+  "name_fi": "Maustetahnat",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22646": {
+  "name_en": "Professional flavour purées & speciality seasonings",
+  "name_fi": "Erikoismausteet ja maustepyreet",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "medium"
+ },
+ "22660": {
+  "name_en": "Yeast",
+  "name_fi": "Hiivat",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22670": {
+  "name_en": "Gelatine, gelling agents & citric acid",
+  "name_fi": "Hyytelöimisaineet",
+  "parent_group": "Spices, seasonings & baking ingredients",
+  "food": true,
+  "confidence": "high"
+ },
+ "22700": {
+  "name_en": "Soft drinks, lemonades & sima",
+  "name_fi": "Virvoitusjuomat",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "high"
+ },
+ "22701": {
+  "name_en": "Energy & protein drinks",
+  "name_fi": "Energia- ja proteiinijuomat",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "high"
+ },
+ "22702": {
+  "name_en": "Mixers, tonics & cocktail ingredients",
+  "name_fi": "Mikserit ja cocktailtuotteet",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "high"
+ },
+ "22703": {
+  "name_en": "Functional drinks & shots",
+  "name_fi": "Funktionaaliset juomat ja shotit",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "medium"
+ },
+ "22704": {
+  "name_en": "Kombucha",
+  "name_fi": "Kombuchat",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "high"
+ },
+ "22705": {
+  "name_en": "Still spring water",
+  "name_fi": "Lähdevedet",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "high"
+ },
+ "22706": {
+  "name_en": "Mineral & carbonated water",
+  "name_fi": "Kivennäisvedet",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "high"
+ },
+ "22707": {
+  "name_en": "Soft-drink concentrates & slush syrups",
+  "name_fi": "Juomatiivisteet ja slush",
+  "parent_group": "Soft drinks & waters",
+  "food": true,
+  "confidence": "medium"
+ },
+ "30010": {
+  "name_en": "Garden & pest control",
+  "name_fi": "Puutarha ja tuholaistorjunta",
+  "parent_group": "Household misc (non-food)",
+  "food": false,
+  "confidence": "low"
+ },
+ "32990": {
+  "name_en": "Matches & lighters",
+  "name_fi": "Tulitikut ja sytyttimet",
+  "parent_group": "Household misc (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "41701": {
+  "name_en": "Frozen pork",
+  "name_fi": "Pakastettu sianliha",
+  "parent_group": "Frozen meat",
+  "food": true,
+  "confidence": "high"
+ },
+ "41702": {
+  "name_en": "Frozen beef & kebab meat",
+  "name_fi": "Pakastettu naudanliha ja kebab",
+  "parent_group": "Frozen meat",
+  "food": true,
+  "confidence": "high"
+ },
+ "41703": {
+  "name_en": "Frozen reindeer & game",
+  "name_fi": "Pakastettu poro ja riista",
+  "parent_group": "Frozen meat",
+  "food": true,
+  "confidence": "high"
+ },
+ "41704": {
+  "name_en": "Frozen lamb",
+  "name_fi": "Pakastettu lammas",
+  "parent_group": "Frozen meat",
+  "food": true,
+  "confidence": "high"
+ },
+ "41705": {
+  "name_en": "Frozen cooked meat products (meatballs, patties)",
+  "name_fi": "Pakastetut lihavalmisteet",
+  "parent_group": "Frozen meat",
+  "food": true,
+  "confidence": "high"
+ },
+ "41710": {
+  "name_en": "Frozen chicken",
+  "name_fi": "Pakastettu broileri",
+  "parent_group": "Frozen poultry",
+  "food": true,
+  "confidence": "high"
+ },
+ "41711": {
+  "name_en": "Frozen duck & game birds",
+  "name_fi": "Pakastettu ankka ja riistalinnut",
+  "parent_group": "Frozen poultry",
+  "food": true,
+  "confidence": "high"
+ },
+ "41712": {
+  "name_en": "Frozen breaded chicken products",
+  "name_fi": "Pakastetut paneroidut broilerituotteet",
+  "parent_group": "Frozen poultry",
+  "food": true,
+  "confidence": "high"
+ },
+ "41720": {
+  "name_en": "Frozen fish",
+  "name_fi": "Pakastekala",
+  "parent_group": "Frozen fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "41721": {
+  "name_en": "Frozen shellfish & crustaceans",
+  "name_fi": "Pakasteäyriäiset",
+  "parent_group": "Frozen fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "41722": {
+  "name_en": "Frozen roe",
+  "name_fi": "Pakastemäti",
+  "parent_group": "Frozen fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "41723": {
+  "name_en": "Frozen fish products (breaded, fish balls)",
+  "name_fi": "Pakastetut kalavalmisteet",
+  "parent_group": "Frozen fish & seafood",
+  "food": true,
+  "confidence": "high"
+ },
+ "41731": {
+  "name_en": "Frozen vegetables",
+  "name_fi": "Pakastevihannekset",
+  "parent_group": "Frozen vegetables, fruit & berries",
+  "food": true,
+  "confidence": "high"
+ },
+ "41732": {
+  "name_en": "Frozen vegetable mixes",
+  "name_fi": "Pakastekasvissekoitukset",
+  "parent_group": "Frozen vegetables, fruit & berries",
+  "food": true,
+  "confidence": "high"
+ },
+ "41733": {
+  "name_en": "Frozen herbs",
+  "name_fi": "Pakasteyrtit",
+  "parent_group": "Frozen vegetables, fruit & berries",
+  "food": true,
+  "confidence": "high"
+ },
+ "41734": {
+  "name_en": "Frozen vegetable purées (texture-modified)",
+  "name_fi": "Pakastetut kasvispyreet",
+  "parent_group": "Frozen vegetables, fruit & berries",
+  "food": true,
+  "confidence": "high"
+ },
+ "41740": {
+  "name_en": "Frozen berries",
+  "name_fi": "Pakastemarjat",
+  "parent_group": "Frozen vegetables, fruit & berries",
+  "food": true,
+  "confidence": "high"
+ },
+ "41741": {
+  "name_en": "Frozen fruit",
+  "name_fi": "Pakastehedelmät",
+  "parent_group": "Frozen vegetables, fruit & berries",
+  "food": true,
+  "confidence": "high"
+ },
+ "41742": {
+  "name_en": "Frozen fruit & berry purées",
+  "name_fi": "Pakastetut marja- ja hedelmäpyreet",
+  "parent_group": "Frozen vegetables, fruit & berries",
+  "food": true,
+  "confidence": "high"
+ },
+ "41750": {
+  "name_en": "Frozen texture-modified meat/meal components",
+  "name_fi": "Pakastetut rakennemuunnellut ruoat",
+  "parent_group": "Frozen ready meals, potato & vegetarian",
+  "food": true,
+  "confidence": "low"
+ },
+ "41751": {
+  "name_en": "Frozen potato products (fries, wedges, rösti)",
+  "name_fi": "Pakastetut perunatuotteet",
+  "parent_group": "Frozen ready meals, potato & vegetarian",
+  "food": true,
+  "confidence": "high"
+ },
+ "41752": {
+  "name_en": "Frozen texture-modified meals & patties (Feelia/Findus)",
+  "name_fi": "Pakastetut pyree- ja erityisruoat",
+  "parent_group": "Frozen ready meals, potato & vegetarian",
+  "food": true,
+  "confidence": "medium"
+ },
+ "41753": {
+  "name_en": "Frozen vegetable patties & balls",
+  "name_fi": "Pakastetut kasvispihvit ja -pyörykät",
+  "parent_group": "Frozen ready meals, potato & vegetarian",
+  "food": true,
+  "confidence": "high"
+ },
+ "41754": {
+  "name_en": "Frozen plant-based meat alternatives",
+  "name_fi": "Pakastetut kasviproteiinit",
+  "parent_group": "Frozen ready meals, potato & vegetarian",
+  "food": true,
+  "confidence": "high"
+ },
+ "41755": {
+  "name_en": "Frozen ready meals, pasta, pizza & components",
+  "name_fi": "Pakastevalmisruoat",
+  "parent_group": "Frozen ready meals, potato & vegetarian",
+  "food": true,
+  "confidence": "high"
+ },
+ "41760": {
+  "name_en": "Frozen bread",
+  "name_fi": "Pakasteleivät",
+  "parent_group": "Frozen bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "41761": {
+  "name_en": "Frozen rolls",
+  "name_fi": "Pakastesämpylät",
+  "parent_group": "Frozen bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "41762": {
+  "name_en": "Frozen savoury pastries, pies & focaccia",
+  "name_fi": "Pakastetut suolaiset leivonnaiset",
+  "parent_group": "Frozen bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "41763": {
+  "name_en": "Frozen cakes & desserts",
+  "name_fi": "Pakastekakut ja -leivokset",
+  "parent_group": "Frozen bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "41764": {
+  "name_en": "Frozen sweet buns & doughnuts",
+  "name_fi": "Pakastepullat ja munkit",
+  "parent_group": "Frozen bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "41765": {
+  "name_en": "Frozen pies, tarts & cookies",
+  "name_fi": "Pakastepiiraat ja keksit",
+  "parent_group": "Frozen bakery",
+  "food": true,
+  "confidence": "medium"
+ },
+ "41766": {
+  "name_en": "Frozen doughs (puff, pie, bread dough)",
+  "name_fi": "Pakastetaikinat",
+  "parent_group": "Frozen bakery",
+  "food": true,
+  "confidence": "high"
+ },
+ "41770": {
+  "name_en": "Ice cubes & miscellaneous frozen",
+  "name_fi": "Jääpalat ja muut pakasteet",
+  "parent_group": "Frozen misc (ice, cheese)",
+  "food": true,
+  "confidence": "low"
+ },
+ "41771": {
+  "name_en": "Frozen cheese",
+  "name_fi": "Pakastejuustot",
+  "parent_group": "Frozen misc (ice, cheese)",
+  "food": true,
+  "confidence": "high"
+ },
+ "41800": {
+  "name_en": "Ice-cream novelties (sticks, cones)",
+  "name_fi": "Jäätelöpuikot ja -tötteröt",
+  "parent_group": "Ice cream",
+  "food": true,
+  "confidence": "high"
+ },
+ "41801": {
+  "name_en": "Ice-cream tubs (retail packs)",
+  "name_fi": "Jäätelöpakkaukset",
+  "parent_group": "Ice cream",
+  "food": true,
+  "confidence": "high"
+ },
+ "41820": {
+  "name_en": "Catering ice cream & sorbet (bulk)",
+  "name_fi": "Suurtalousjäätelöt",
+  "parent_group": "Ice cream",
+  "food": true,
+  "confidence": "high"
+ },
+ "41830": {
+  "name_en": "Frozen pancakes, crepes & mämmi",
+  "name_fi": "Pakasteohukaiset ja mämmi",
+  "parent_group": "Frozen ready meals, potato & vegetarian",
+  "food": true,
+  "confidence": "medium"
+ },
+ "52200": {
+  "name_en": "Chocolate bars",
+  "name_fi": "Suklaapatukat",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "52201": {
+  "name_en": "Chocolate tablets",
+  "name_fi": "Suklaalevyt",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "52202": {
+  "name_en": "Filled chocolates & chocolate bags",
+  "name_fi": "Täytesuklaat ja suklaapussit",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "medium"
+ },
+ "52208": {
+  "name_en": "Lollipops & novelty sweets",
+  "name_fi": "Tikkarit ja yllätysmakeiset",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "52209": {
+  "name_en": "Pick-and-mix bulk sweets",
+  "name_fi": "Irtomakeiset",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "52210": {
+  "name_en": "Candy bags",
+  "name_fi": "Makeispussit",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "52240": {
+  "name_en": "Pastilles & liquorice",
+  "name_fi": "Pastillit ja lakritsit",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "52260": {
+  "name_en": "Chewing gum",
+  "name_fi": "Purukumit",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "52290": {
+  "name_en": "Boxed chocolates & gift confectionery",
+  "name_fi": "Konvehdit ja lahjamakeiset",
+  "parent_group": "Confectionery",
+  "food": true,
+  "confidence": "high"
+ },
+ "63000": {
+  "name_en": "Hair care & cosmetics",
+  "name_fi": "Hiustenhoito ja kosmetiikka",
+  "parent_group": "Hygiene & personal care (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63001": {
+  "name_en": "Soaps & hand wash",
+  "name_fi": "Saippuat ja käsienpesu",
+  "parent_group": "Hygiene & personal care (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63002": {
+  "name_en": "Oral care",
+  "name_fi": "Suunhoito",
+  "parent_group": "Hygiene & personal care (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63070": {
+  "name_en": "Feminine hygiene",
+  "name_fi": "Naisten hygienia",
+  "parent_group": "Hygiene & personal care (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63071": {
+  "name_en": "First aid, plasters & protective disposables",
+  "name_fi": "Ensiapu ja suojatarvikkeet",
+  "parent_group": "Hygiene & personal care (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "63072": {
+  "name_en": "Personal care misc (wipes, razors)",
+  "name_fi": "Muut hygieniatuotteet",
+  "parent_group": "Hygiene & personal care (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "63100": {
+  "name_en": "Dishwashing detergents",
+  "name_fi": "Astianpesuaineet",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63113": {
+  "name_en": "Laundry detergents",
+  "name_fi": "Pyykinpesuaineet",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63114": {
+  "name_en": "Professional cleaning chemicals",
+  "name_fi": "Ammattipuhdistusaineet",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63115": {
+  "name_en": "Household cleaners, descalers & air fresheners",
+  "name_fi": "Kodin puhdistusaineet",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "63120": {
+  "name_en": "Cleaning cloths, brushes & tools",
+  "name_fi": "Siivousvälineet",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63121": {
+  "name_en": "Bin bags & liners",
+  "name_fi": "Jätesäkit",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63122": {
+  "name_en": "Waste bins",
+  "name_fi": "Jäteastiat",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63130": {
+  "name_en": "Plastic kitchen containers & measuring jugs",
+  "name_fi": "Muoviset keittiöastiat",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "63131": {
+  "name_en": "Buckets & basins",
+  "name_fi": "Ämpärit ja vadit",
+  "parent_group": "Cleaning, dishwashing & waste (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63200": {
+  "name_en": "Kitchen paper rolls",
+  "name_fi": "Talouspaperit",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63210": {
+  "name_en": "Toilet paper",
+  "name_fi": "WC-paperit",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63230": {
+  "name_en": "Napkins 24 cm",
+  "name_fi": "Lautasliinat 24 cm",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63231": {
+  "name_en": "Napkins 33 cm",
+  "name_fi": "Lautasliinat 33 cm",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63232": {
+  "name_en": "Table covers & table runners",
+  "name_fi": "Pöytäliinat",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63233": {
+  "name_en": "Dispenser napkins",
+  "name_fi": "Annostelijaliinat",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63234": {
+  "name_en": "Napkin dispensers",
+  "name_fi": "Liina-annostelijat",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63235": {
+  "name_en": "Napkins 40 cm & premium napkins",
+  "name_fi": "Lautasliinat 40 cm ja juhlaliinat",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63240": {
+  "name_en": "Hand towels & wiping rolls",
+  "name_fi": "Käsipyyhkeet",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63241": {
+  "name_en": "Towel & toilet-paper dispensers",
+  "name_fi": "Annostelijat",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63242": {
+  "name_en": "Facial tissues",
+  "name_fi": "Nenäliinat",
+  "parent_group": "Paper, napkins & dispensers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63270": {
+  "name_en": "Kitchen twine",
+  "name_fi": "Sidelangat",
+  "parent_group": "Kitchen consumables: film, foil, filters (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "63271": {
+  "name_en": "Coffee filters",
+  "name_fi": "Kahvinsuodattimet",
+  "parent_group": "Kitchen consumables: film, foil, filters (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63272": {
+  "name_en": "Cling film, foil & baking paper",
+  "name_fi": "Kelmut, foliot ja leivinpaperit",
+  "parent_group": "Kitchen consumables: film, foil, filters (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63273": {
+  "name_en": "Roasting bags",
+  "name_fi": "Paistopussit",
+  "parent_group": "Kitchen consumables: film, foil, filters (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63300": {
+  "name_en": "Workwear (chef jackets, aprons)",
+  "name_fi": "Työvaatteet",
+  "parent_group": "Workwear & appliances (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "63900": {
+  "name_en": "Electric kitchen appliances",
+  "name_fi": "Sähkölaitteet",
+  "parent_group": "Workwear & appliances (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "64000": {
+  "name_en": "Disposable plates",
+  "name_fi": "Kertakäyttölautaset",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64001": {
+  "name_en": "Disposable cups & glasses",
+  "name_fi": "Kertakäyttömukit ja -lasit",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64002": {
+  "name_en": "Disposable cutlery",
+  "name_fi": "Kertakäyttöaterimet",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64003": {
+  "name_en": "Disposable serving items, foil trays & picks",
+  "name_fi": "Kertakäyttöiset tarjoilutarvikkeet",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "64004": {
+  "name_en": "Takeaway & food containers",
+  "name_fi": "Ruokarasiat ja take away -pakkaukset",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64005": {
+  "name_en": "Food bags",
+  "name_fi": "Pussit",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64006": {
+  "name_en": "Carrier bags",
+  "name_fi": "Kassit",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64007": {
+  "name_en": "Cake & bakery boxes",
+  "name_fi": "Kakku- ja leivoslaatikot",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64008": {
+  "name_en": "Thermo boxes & cooling packs",
+  "name_fi": "Lämpölaatikot ja kylmäelementit",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64010": {
+  "name_en": "Candles",
+  "name_fi": "Kynttilät",
+  "parent_group": "Candles & decorations (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64011": {
+  "name_en": "Lanterns & outdoor candles",
+  "name_fi": "Lyhdyt ja ulkotulet",
+  "parent_group": "Candles & decorations (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64100": {
+  "name_en": "Grilling & outdoor (charcoal, lighter fluid)",
+  "name_fi": "Grillaus ja ulkoilu",
+  "parent_group": "Household misc (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "64130": {
+  "name_en": "Pet supplies",
+  "name_fi": "Lemmikkitarvikkeet",
+  "parent_group": "Pet supplies (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "64300": {
+  "name_en": "Household goods misc",
+  "name_fi": "Taloustavarat",
+  "parent_group": "Household misc (non-food)",
+  "food": false,
+  "confidence": "low"
+ },
+ "64301": {
+  "name_en": "Light bulbs & fuses",
+  "name_fi": "Lamput ja sulakkeet",
+  "parent_group": "Household misc (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "64310": {
+  "name_en": "Car care & lamp oil",
+  "name_fi": "Autotarvikkeet",
+  "parent_group": "Household misc (non-food)",
+  "food": false,
+  "confidence": "low"
+ },
+ "64500": {
+  "name_en": "Gift packaging & boxes",
+  "name_fi": "Lahjapakkaukset",
+  "parent_group": "Disposables & packaging (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "67730": {
+  "name_en": "Newspapers",
+  "name_fi": "Sanomalehdet",
+  "parent_group": "Newspapers (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "67800": {
+  "name_en": "Seasonal & party decorations",
+  "name_fi": "Juhla- ja sesonkitarvikkeet",
+  "parent_group": "Candles & decorations (non-food)",
+  "food": false,
+  "confidence": "medium"
+ },
+ "77722": {
+  "name_en": "Technical gases (CO2, nitrogen)",
+  "name_fi": "Kaasut",
+  "parent_group": "Technical gases (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "84966": {
+  "name_en": "Alcohol-free beer (domestic)",
+  "name_fi": "Alkoholittomat oluet (kotimaiset)",
+  "parent_group": "Alcohol-free beer, cider & wine",
+  "food": true,
+  "confidence": "medium"
+ },
+ "84967": {
+  "name_en": "Alcohol-free cider",
+  "name_fi": "Alkoholittomat siiderit",
+  "parent_group": "Alcohol-free beer, cider & wine",
+  "food": true,
+  "confidence": "high"
+ },
+ "84988": {
+  "name_en": "Alcohol-free long drinks",
+  "name_fi": "Alkoholittomat lonkerot",
+  "parent_group": "Alcohol-free beer, cider & wine",
+  "food": true,
+  "confidence": "high"
+ },
+ "85001": {
+  "name_en": "Alcohol-free beer (imported) & ginger beer",
+  "name_fi": "Alkoholittomat oluet (tuonti)",
+  "parent_group": "Alcohol-free beer, cider & wine",
+  "food": true,
+  "confidence": "medium"
+ },
+ "85028": {
+  "name_en": "Alcohol-free wine & sparkling",
+  "name_fi": "Alkoholittomat viinit",
+  "parent_group": "Alcohol-free beer, cider & wine",
+  "food": true,
+  "confidence": "high"
+ },
+ "85034": {
+  "name_en": "Alcohol-free cider (imported)",
+  "name_fi": "Alkoholittomat siiderit (tuonti)",
+  "parent_group": "Alcohol-free beer, cider & wine",
+  "food": true,
+  "confidence": "low"
+ },
+ "90011": {
+  "name_en": "Filing & folders",
+  "name_fi": "Arkistointi ja kansiot",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "90012": {
+  "name_en": "Pens & markers",
+  "name_fi": "Kynät ja tussit",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "90013": {
+  "name_en": "Copy & printer paper",
+  "name_fi": "Kopiopaperit",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "90014": {
+  "name_en": "Till / thermal paper rolls",
+  "name_fi": "Kassarullat",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "90015": {
+  "name_en": "Notebooks & pads",
+  "name_fi": "Vihkot ja lehtiöt",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "90021": {
+  "name_en": "Envelopes & mailing bags",
+  "name_fi": "Kirjekuoret",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "90022": {
+  "name_en": "Tape, staplers & punches",
+  "name_fi": "Teipit ja nitojat",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "high"
+ },
+ "90024": {
+  "name_en": "Office misc (ink, calculators)",
+  "name_fi": "Muut toimistotarvikkeet",
+  "parent_group": "Office supplies (non-food)",
+  "food": false,
+  "confidence": "medium"
+ }
+}

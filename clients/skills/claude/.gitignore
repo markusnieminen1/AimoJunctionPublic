@@ -1,0 +1,8 @@
+# Never commit generated MCP configs or secrets
+.mcp.json
+aimo_credentials.json
+mcp/aimo_credentials.json
+.env
+.env.*
+__pycache__/
+*.pyc
